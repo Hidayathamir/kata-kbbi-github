@@ -1,5 +1,5 @@
 # kbbi-github
-KBBI dari berbagai sumber di github
+Kata-kata Bahasa Indonesia dari berbagai sumber KBBI di github
 
 * Source 1: https://github.com/bgli/kbbi-qt
 * Source 2: https://github.com/rizaumami/kbbi dari KBBI edisi 4 http://bse.mahoni.com/data/umum/Kamus_Bahasa_Indonesia_2008.pdf
