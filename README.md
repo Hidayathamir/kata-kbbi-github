@@ -1,4 +1,4 @@
-# kbbi-github
+# kata-kbbi-github
 Kata-kata Bahasa Indonesia dari berbagai sumber KBBI di github
 
 * Source 1: https://github.com/bgli/kbbi-qt
